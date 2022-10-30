@@ -1,0 +1,30 @@
+h1{
+    color: blue;
+}
+p{
+    color: red;
+}
+.second{
+    color: aqua;
+}
+p.first{
+    color: bisque;
+}
+.third{
+    color: blueviolet;
+}
+.fifth{
+    color: beige;
+}
+.sixth{
+    color: aliceblue;
+}
+#avi{
+    color: brown;
+}
+h2,p{
+    color: red;
+}
+*{
+    text-align:center ;
+}
